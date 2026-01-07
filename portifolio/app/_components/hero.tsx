@@ -50,7 +50,7 @@ export function Hero() {
             {/* CTA   */}
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://github.com/seu-usuario"
+                href="https://github.com/FelipeFontanaSeganfredo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg bg-purple-600 px-6 py-3 font-semibold shadow-lg shadow-purple-500/30 transition-all hover:bg-purple-700 hover:-translate-y-0.5"
@@ -60,7 +60,7 @@ export function Hero() {
               </a>
 
               <a
-                href="https://linkedin.com/in/seu-usuario"
+                href="https://www.linkedin.com/in/felipe-seganfredo-52b140270/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg bg-blue-600 px-6 py-3 font-semibold shadow-lg shadow-blue-500/30 transition-all hover:bg-blue-700 hover:-translate-y-0.5"
